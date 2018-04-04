@@ -1,0 +1,13 @@
+---
+# Jekyll needs front matter for SCSS files
+---
+
+$sidebar-bg-color:  #037580;
+.img-circle{
+  /*border-radius: 30%;*/
+  display: block;
+  margin: auto;
+}
+
+#copyright{ font-size: 0.7rem; }
+@import "hydeout";
