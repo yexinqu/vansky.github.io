@@ -40,6 +40,7 @@ order: 3
 ### Service
 2018
 : Workshop on Cognitive Modeling in Computational Linguistics (CMCL), *Co-organizer*
+: Garrison Forest School/Johns Hopkins University Women in Science and Engineering, *Mentor*
 
 2017
 : Workshop on Cognitive Modeling in Computational Linguistics (CMCL), *Co-organizer/Fundraiser*
