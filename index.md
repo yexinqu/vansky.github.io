@@ -13,7 +13,9 @@ Outside of work, I enjoy travel, dinner parties, and gardening.
 
 ### Recent News
 
-May 12: I'll be giving a talk at the [Mid-Atlantic Student Colloquium on Speech, Language and Learning 2018](http://www.mascsll.org/2018).
+May 14: [Paper](/assets/pdf/vanschijndel_linzen-2018-cogsci.pdf) accepted for poster presentation at [CogSci 2018](http://www.cognitivesciencesociety.org/conference/cogsci-2018/).
+
+May 12: I gave a talk at the [Mid-Atlantic Student Colloquium on Speech, Language and Learning 2018](http://www.mascsll.org/2018).
 
 March 17: [Cory Shain](https://www.asc.ohio-state.edu/shain.3/) presented our [paper](/assets/pdf/2018-shain_etal-cuny.pdf) at
 [CUNY 2018](http://cuny2018.ucdavis.edu/).
