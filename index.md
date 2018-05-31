@@ -13,7 +13,7 @@ Outside of work, I enjoy travel, dinner parties, and gardening.
 
 ### Recent News
 
-May 14: [Paper](/assets/pdf/vanschijndel_linzen-2018-cogsci.pdf) accepted for poster presentation at [CogSci 2018](http://www.cognitivesciencesociety.org/conference/cogsci-2018/).
+May 14: [Paper](/assets/pdf/vanschijndel_linzen-2018-cogsci.pdf) accepted for presentation at [CogSci 2018](http://www.cognitivesciencesociety.org/conference/cogsci-2018/).
 
 May 12: I gave a talk at the [Mid-Atlantic Student Colloquium on Speech, Language and Learning 2018](http://www.mascsll.org/2018).
 
