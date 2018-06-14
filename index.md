@@ -17,10 +17,10 @@ May 14: [Paper](/assets/pdf/vanschijndel_linzen-2018-cogsci.pdf) accepted for pr
 
 May 12: I gave a talk at the [Mid-Atlantic Student Colloquium on Speech, Language and Learning 2018](http://www.mascsll.org/2018).
 
-March 17: [Cory Shain](https://www.asc.ohio-state.edu/shain.3/) presented our [paper](/assets/pdf/2018-shain_etal-cuny.pdf) at
+March 17: [Cory Shain](https://www.asc.ohio-state.edu/shain.3/) presented our [paper](/assets/pdf/shain_etal-2018-cuny.pdf) at
 [CUNY 2018](http://cuny2018.ucdavis.edu/).
 
-Feb 22: [Paper](/assets/pdf/2018-shain_etal-lincr.pdf) accepted for oral presentation at the [Workshop on Linguistic and Neuro-Cognitive Resources (LiNCR)](http://lincr2018.cbs.polyu.edu.hk/LiNCR_workshop/) at [LREC 2018](http://lrec2018.lrec-conf.org/en/).
+Feb 22: [Paper](/assets/pdf/shain_etal-2018-lincr.pdf) accepted for oral presentation at the [Workshop on Linguistic and Neuro-Cognitive Resources (LiNCR)](http://lincr2018.cbs.polyu.edu.hk/LiNCR_workshop/) at [LREC 2018](http://lrec2018.lrec-conf.org/en/).
 
 January 7: [CMCL 2018](https://cmclorg.github.io/) went well! Phew. Thanks to
 our PC and the other organizers for all their help. And thanks to all the authors
