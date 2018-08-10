@@ -13,6 +13,10 @@ Outside of work, I enjoy travel, dinner parties, and gardening.
 
 ### Recent News
 
+August 10: Paper accepted for presentation at [EMNLP 2018](http://emnlp2018.org/).
+
+June 7: [1](/assets/pdf/vanschijndel_linzen-2018-amlap_adapt-abstract.pdf), [2](/assets/pdf/vanschijndel_linzen-2018-amlap_topk-abstract.pdf) posters accepted for presentation at [AMLaP 2018](https://amor.cms.hu-berlin.de/~knoeferp/AMLaP2018/Home.html).
+
 May 14: [Paper](/assets/pdf/vanschijndel_linzen-2018-cogsci.pdf) accepted for presentation at [CogSci 2018](http://www.cognitivesciencesociety.org/conference/cogsci-2018/).
 
 May 12: I gave a talk at the [Mid-Atlantic Student Colloquium on Speech, Language and Learning 2018](http://www.mascsll.org/2018).
