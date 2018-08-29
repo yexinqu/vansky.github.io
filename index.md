@@ -13,7 +13,7 @@ Outside of work, I enjoy travel, dinner parties, and gardening.
 
 ### Recent News
 
-August 10: Paper accepted for presentation at [EMNLP 2018](http://emnlp2018.org/).
+August 10: [Paper](/assets/pdf/vanschijndel_linzen-2018-emnlp_adapt.pdf) accepted for presentation at [EMNLP 2018](http://emnlp2018.org/). ([Supp.\ Materials](/assets/pdf/vanschijndel_linzen-2018-emnlp_adapt-supp.pdf))
 
 June 7: [1](/assets/pdf/vanschijndel_linzen-2018-amlap_adapt-abstract.pdf), [2](/assets/pdf/vanschijndel_linzen-2018-amlap_topk-abstract.pdf) posters accepted for presentation at [AMLaP 2018](https://amor.cms.hu-berlin.de/~knoeferp/AMLaP2018/Home.html).
 
