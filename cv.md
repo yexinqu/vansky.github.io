@@ -5,7 +5,7 @@ sidebar_link: true
 order: 3
 ---
 
-<!--&lfloor; <a href="/assets/pdf/cv.pdf">pdf</a> &rfloor;-->
+&lfloor; <a href="/assets/pdf/cv.pdf">pdf</a> &rfloor;
 
 
 2017-present
