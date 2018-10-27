@@ -41,6 +41,7 @@ order: 3
 2018
 : Workshop on Cognitive Modeling in Computational Linguistics (CMCL), *Co-organizer*
 : Garrison Forest School/Johns Hopkins University Women in Science and Engineering, *Mentor*
+: Johns Hopkins University Provost's Undergraduate Research Award, *Reviewer*
 
 2017
 : Workshop on Cognitive Modeling in Computational Linguistics (CMCL), *Co-organizer/Fundraiser*
@@ -81,4 +82,4 @@ Conference Reviewing
 * NAACL
 
 
-*Updated: April 2, 2018*
+*Updated: October 27, 2018*
