@@ -13,6 +13,8 @@ Outside of work, I enjoy travel, dinner parties, and gardening.
 
 ### Recent News
 
+September 24: [Paper](/assets/pdf/vanschijndel_linzen-2019-scil.pdf) accepted for oral presentation at [SCIL 2019](https://blogs.umass.edu/scil/scil-2019/).
+
 August 10: [Paper](/assets/pdf/vanschijndel_linzen-2018-emnlp_adapt-joint.pdf) accepted for oral presentation at [EMNLP 2018](http://emnlp2018.org/).
 
 June 7: [1](/assets/pdf/vanschijndel_linzen-2018-amlap_adapt-abstract.pdf), [2](/assets/pdf/vanschijndel_linzen-2018-amlap_topk-abstract.pdf) posters accepted for presentation at [AMLaP 2018](https://amor.cms.hu-berlin.de/~knoeferp/AMLaP2018/Home.html).
@@ -25,7 +27,3 @@ March 17: [Cory Shain](https://www.asc.ohio-state.edu/shain.3/) presented our [p
 [CUNY 2018](http://cuny2018.ucdavis.edu/).
 
 Feb 22: [Paper](/assets/pdf/shain_etal-2018-lincr.pdf) accepted for oral presentation at the [Workshop on Linguistic and Neuro-Cognitive Resources (LiNCR)](http://lincr2018.cbs.polyu.edu.hk/LiNCR_workshop/) at [LREC 2018](http://lrec2018.lrec-conf.org/en/).
-
-January 7: [CMCL 2018](https://cmclorg.github.io/) went well! Phew. Thanks to
-our PC and the other organizers for all their help. And thanks to all the authors
-for their great submissions!
