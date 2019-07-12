@@ -3,15 +3,11 @@ layout: default
 title: Home
 ---
 
-I am a computational linguist currently working as
-a postdoctoral fellow at [Johns Hopkins University](https://www.jhu.edu/)
-in the [Department of Cognitive Science](http://cogsci.jhu.edu/). I work with [Tal Linzen](http://tallinzen.net/) probing the extent to which neural networks can learn human-like linguistic representations.
-
-This summer I'll be joining the [Department of Linguistics](https://linguistics.cornell.edu/) at [Cornell University](https://www.cornell.edu/) as an assistant professor of computational linguistics!
-
-My work mainly focuses on incremental models of language processing and often involves testing the predictions of computational models against human behavioral and neural responses (e.g., reading times, M/EEG, etc). I am especially interested in the influence of uncertainty on language processing.
+I am an assistant professor of [linguistics](https://linguistics.cornell.edu/) at [Cornell University](https://www.cornell.edu/). I am very interested in the incremental representations that humans use to process language. My work probes human linguistic processing directly with psycholinguistic experimentation or by analyzing corpora of human behavior (e.g., reading times) or neuroimaging data (e.g., fMRI, M/EEG, etc). Lately, I have been studying the linguistic representations of neural networks in order to find the types of linguistic representations that work well for language processing, and which therefore could be used by humans.
 
 Outside of work, I enjoy travel, dinner parties, and gardening.
+
+I am looking for enthusiastic individuals with interests in linguistics, cognitive science, and computer science. If you are interested in working with me, read more [here](/workwithme.html).
 
 ### Recent News
 
