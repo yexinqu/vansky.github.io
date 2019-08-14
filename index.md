@@ -11,6 +11,8 @@ I am looking for enthusiastic individuals with interests in linguistics, cogniti
 
 ### Recent News
 
+August 13: Paper accepted for presentation at [EMNLP 2019](https://www.emnlp-ijcnlp2019.org/).
+
 March 28: Invited talks given at University of Edinburgh.
 
 February 7-8: Invited talks given at Cornell.
