@@ -13,6 +13,8 @@ I am looking for enthusiastic individuals with interests in linguistics, cogniti
 
 August 13: Paper accepted for presentation at [EMNLP 2019](https://www.emnlp-ijcnlp2019.org/).
 
+July 1: Started at Cornell!
+
 March 28: Invited talks given at University of Edinburgh.
 
 February 7-8: Invited talks given at Cornell.
@@ -22,7 +24,3 @@ January 24: 2 posters accepted for presentation at [CUNY 2019](https://www.color
 September 24: [Paper](/assets/pdf/vanschijndel_linzen-2019-scil.pdf) accepted for oral presentation at [SCIL 2019](https://blogs.umass.edu/scil/scil-2019/).
 
 August 10: [Paper](/assets/pdf/vanschijndel_linzen-2018-emnlp_adapt-joint.pdf) accepted for oral presentation at [EMNLP 2018](http://emnlp2018.org/).
-
-June 7: [1](/assets/pdf/vanschijndel_linzen-2018-amlap_adapt-abstract.pdf), [2](/assets/pdf/vanschijndel_linzen-2018-amlap_topk-abstract.pdf) posters accepted for presentation at [AMLaP 2018](https://amor.cms.hu-berlin.de/~knoeferp/AMLaP2018/Home.html).
-
-May 14: [Paper](/assets/pdf/vanschijndel_linzen-2018-cogsci.pdf) accepted for [presentation](assets/pdf/vanschijndel_linzen-2018-cogsci-poster.pdf) at [CogSci 2018](http://www.cognitivesciencesociety.org/conference/cogsci-2018/).
