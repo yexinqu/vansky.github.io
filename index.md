@@ -11,7 +11,9 @@ I am looking for enthusiastic individuals with interests in linguistics, cogniti
 
 ### Recent News
 
-August 13: Paper accepted for presentation at [EMNLP 2019](https://www.emnlp-ijcnlp2019.org/).
+August 28: Paper accepted for presentation at [CoNLL 2019](https://www.conll.org/2019).
+
+August 13: [Paper](/assets/pdf/vanschijndel_etal-2019-emnlp.pdf) accepted for presentation at [EMNLP 2019](https://www.emnlp-ijcnlp2019.org/).
 
 July 1: Started at Cornell!
 
