@@ -7,8 +7,10 @@ order: 3
 
 &lfloor; <a href="/assets/pdf/cv.pdf">pdf</a> &rfloor;
 
+2019-present
+: *Cornell University* Assistant Professor in Linguistics
 
-2017-present
+2017-2019
 : *Johns Hopkins University* Postdoctoral fellow in Cognitive Science
 
 2011-2017
@@ -67,19 +69,11 @@ order: 3
 
 Journal Reviewing
 * Journal of Computational Linguistics
+* Language, Cognition, and Neuroscience
+* Philosophical Transactions of the Royal Society B
 * Transactions of the ACL
 
 Conference Reviewing
-* ACL
-* CMCL (Workshop on Cognitive Modeling in Computational Linguistics)
-* CogSci
-* COLING
-* CoNLL
-* CUNY Sentence Processing Conference
-* EACL
-* EMNLP
-* LREC
-* NAACL
+: ACL, CMCL, CogSci, COLING, CoNLL, CUNY Sentence Processing Conference, EACL, EMNLP, LREC, NAACL
 
-
-*Updated: October 27, 2018*
+*Updated: August 30, 2019*
