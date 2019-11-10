@@ -11,6 +11,8 @@ I am looking for enthusiastic individuals with interests in linguistics, cogniti
 
 ### Recent News
 
+November 7: Our [CoNLL paper](/assets/pdf/prasad_etal-2019-conll.pdf) was runner up for the Best Paper Award for Research Inspired by Human Language Learning and Processing!
+
 August 28: [Paper](/assets/pdf/prasad_etal-2019-conll.pdf) accepted for presentation at [CoNLL 2019](https://www.conll.org/2019).
 
 August 13: [Paper](/assets/pdf/vanschijndel_etal-2019-emnlp.pdf) accepted for presentation at [EMNLP 2019](https://www.emnlp-ijcnlp2019.org/).
