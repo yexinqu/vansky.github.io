@@ -11,6 +11,10 @@ I am looking for enthusiastic individuals with interests in linguistics, cogniti
 
 ### Recent News
 
+December 13: Our [Neuropsychologia paper](https://doi.org/10.1101/717512) was finally accepted. We show that linguistic prediction (lexical and syntactic) happens entirely in language-specific brain regions, rather than being driven by domain-general prediction mechanisms. 
+
+November 29: Want to see how your LM analysis results generalize to models with different hidden dimensions, different initializations, or different amounts of training data? Save time/compute and use the 125 LSTMs from our [EMNLP paper](/assets/pdf/vanschijndel_etal-2019-emnlp.pdf): [Hosted on Zenodo](https://doi.org/10.5281/zenodo.3556942)
+
 November 7: Our [CoNLL paper](/assets/pdf/prasad_etal-2019-conll.pdf) was runner up for the Best Paper Award for Research Inspired by Human Language Learning and Processing!
 
 August 28: [Paper](/assets/pdf/prasad_etal-2019-conll.pdf) accepted for presentation at [CoNLL 2019](https://www.conll.org/2019).
@@ -18,13 +22,3 @@ August 28: [Paper](/assets/pdf/prasad_etal-2019-conll.pdf) accepted for presenta
 August 13: [Paper](/assets/pdf/vanschijndel_etal-2019-emnlp.pdf) accepted for presentation at [EMNLP 2019](https://www.emnlp-ijcnlp2019.org/).
 
 July 1: Started at Cornell!
-
-March 28: Invited talks given at University of Edinburgh.
-
-February 7-8: Invited talks given at Cornell.
-
-January 24: 2 posters accepted for presentation at [CUNY 2019](https://www.colorado.edu/event/cuny2019/).
-
-September 24: [Paper](/assets/pdf/vanschijndel_linzen-2019-scil.pdf) accepted for oral presentation at [SCIL 2019](https://blogs.umass.edu/scil/scil-2019/).
-
-August 10: [Paper](/assets/pdf/vanschijndel_linzen-2018-emnlp_adapt-joint.pdf) accepted for oral presentation at [EMNLP 2018](http://emnlp2018.org/).
